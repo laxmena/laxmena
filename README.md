@@ -4,11 +4,11 @@
 
 <h2>Hey! 👋</h2>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laxmena?tab=followers)
 
 I'm Lakshmanan Meiyappan! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation
+- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
 
 <h2>💻 I'm Currently Learning</h2>
 
@@ -27,11 +27,11 @@ Check out the GitHub repository: [100MLProjects](https://github.com/laxmena/100M
 
 <h2>👀 GitHub Stats</h2>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
+[![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)](https://github.com/laxmena)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)](https://github.com/laxmena)
 
-![Laxmena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laxmena)
+[![Laxmena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laxmena)](https://github.com/laxmena)
 
 <h2>📫 How to reach me:</h2>
 
