@@ -20,7 +20,9 @@ __University of Illinois at Chicago__
 <h2>About #💯MLProjects</h2>
 
 __100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects within increasing complexity over a period of two years. 
+
 I document my experience throughout this process, and you can find them on my [Medium Blog](https://laxmena.medium.com).
+
 Check out the GitHub repository: [100MLProjects](https://github.com/laxmena/100MLProjects)
 
 <h2>👀 GitHub Stats</h2>
