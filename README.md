@@ -24,7 +24,7 @@ __100MLProjects__ is a challenge that I created for myself to get proficient in 
 
 I document my experience throughout this process, and you can find them on my [Medium Blog](https://laxmena.medium.com).
 
-Check out the GitHub repository: 
+Check out the GitHub repository:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True)](https://github.com/laxmena/100MLProjects)
 
