@@ -20,7 +20,7 @@ __University of Illinois at Chicago__
 <h2>Currently working on:</h2>
 <h4>#100MLProjects 💯</h4>
 
-__100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects within increasing complexity over a period of two years. 
+__100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
 
 I document my experience throughout this process, and you can find them on my [Medium Blog](https://laxmena.medium.com).
 
