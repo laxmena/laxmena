@@ -27,6 +27,7 @@ I document my experience throughout this process, and you can find them on my [M
 Check out the GitHub repository:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True)](https://github.com/laxmena/100MLProjects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True)](https://github.com/laxmena/AndroidApps)
 
 <h2>👀 GitHub Stats</h2>
 
