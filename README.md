@@ -22,7 +22,7 @@ __University of Illinois at Chicago__
 
 __100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
 
-I document my experience throughout this process, and you can find them on my [Medium Blog](https://laxmena.medium.com).
+I document my experience throughout this process, and you can find them on my [Blog](https://www.laxmena.com/category/100-ml-projects/).
 
 Check out the GitHub repository:
 
@@ -31,11 +31,16 @@ Check out the GitHub repository:
 
 <h2>👀 GitHub Stats</h2>
 
-[![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)](https://github.com/laxmena)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)](https://github.com/laxmena)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=laxmena)](#)
 
-[![Laxmena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laxmena)](https://github.com/laxmena)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)](#)
+
+[![Laxmena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laxmena)](#)
+
+<h2> About Laxmena⚡:</h2>
+
+Get to know more about me [here](https://laxmena.com/pages/about). I write tech, productivity articles and book reviews in my [blog](https://laxmena.com)!
 
 <h2>📫 How to reach me:</h2>
 
