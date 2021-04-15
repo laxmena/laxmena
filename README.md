@@ -26,15 +26,13 @@ I document my experience throughout this process, and you can find them on my [B
 
 Check out the GitHub repository:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True)](https://github.com/laxmena/100MLProjects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True)](https://github.com/laxmena/AndroidApps)
 <div>
   <p align="center">
     <a href="https://github.com/laxmena/100MLProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" style="max-width:100%;min-height: 9.5em;" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/laxmena/100MLProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True" style="max-width:100%;min-height: 9.5em;" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 </div>
