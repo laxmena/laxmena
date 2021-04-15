@@ -27,7 +27,7 @@ I document my experience throughout this process, and you can find them on my [B
 Check out the GitHub repository:
 
 <div>
-  <p align="center">
+  <p>
     <a href="https://github.com/laxmena/100MLProjects">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" alt="GitHub Stats" />
     </a>
@@ -53,7 +53,6 @@ Check out the GitHub repository:
   </p>
 </div>
 
-<hr/>
 <h2> About Laxmena⚡:</h2>
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
