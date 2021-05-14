@@ -31,7 +31,7 @@ Check out the GitHub repository:
     <a href="https://github.com/laxmena/100MLProjects">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/100MLProjects">
+    <a href="https://github.com/laxmena/AndroidApps">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
@@ -40,10 +40,10 @@ Check out the GitHub repository:
 <h2>👀 Stats</h2>
 
 <div>
-  <p align="center">
+<!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p>
+  </p> -->
   
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
