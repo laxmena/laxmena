@@ -12,27 +12,34 @@ I'm Lakshmanan Meiyappan!
 
 <h2>💻 I'm Currently Learning</h2>
 
-__University of Illinois at Chicago__
+__Tensorflow Developer Certification__
+- [DeepLearning.ai - TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+
+<!-- __University of Illinois at Chicago__
 - CS412 Introduction to Machine Learning
 - CS418 Introduction to Data Science
-- CS478 Software Development for Mobile Platforms
+- CS478 Software Development for Mobile Platforms -->
 
-<h2>Currently working on:</h2>
+<h2>Currently working:</h2>
+<h4>Graduate Research Assistant</h4>
+
+Now working as Graduate Research Assistant at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
+
 <h4>#100MLProjects 💯</h4>
 
 __100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
 
 I document my experience throughout this process, and you can find them on my [Blog](https://www.laxmena.com/category/100-ml-projects/).
 
-Check out the GitHub repository:
+__Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/100MLProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/AndroidApps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/laxmena/100MLProjects">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -46,9 +53,9 @@ Check out the GitHub repository:
   </p> -->
   
   <p align="center">
-  <b><em>Overall GitHub Stats:</em></b> <br/>
+  <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
   </p>
 </div>
@@ -59,8 +66,8 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
  
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [WriteTo@laxmena.com](mailto:writeto@laxmena.com)
+- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:WriteTo@laxmena.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
