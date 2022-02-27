@@ -10,17 +10,11 @@ I'm Lakshmanan Meiyappan!
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
 - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
 
-<h2>💻 I'm Currently Learning</h2>
+<h2>💻 I'm Currently workng on</h2>
 
-__University of Illinois at Chicago__
-- CS441 Engineering Distributed Objects for Cloud Computing
-- CS594 Big Data Analytics and Visualization
-- CS583 Data Mining and Text Mining
+- System Design and Distributed Computing
+- Software Engineering
 
-<h2>Currently working:</h2>
-<h4>Software Developer(Graduate Research Assistant)</h4>
-
-Now working as Software Developer(Graduate Research Assistant) at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
 
 __Check out my GitHub repository:__
 
