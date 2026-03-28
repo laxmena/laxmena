@@ -6,8 +6,6 @@ I build what's missing. When I hit a problem and the right tool doesn't exist, I
 
 ---
 
-### Projects
-
 **[Hone](https://github.com/laxmena/hone)** — Autonomous code optimization loop. Give it a goal, a benchmark, and a file. It iterates until it gets there.
 ```
 pip install hone-ai
@@ -23,6 +21,4 @@ pip install PyCalendly
 pip install writefreely-mcp-server
 ```
 
----
-
-I write about what I build at **[laxmena.com](https://laxmena.com)** — the process, the failures, the pivots.
+**Follow the build: [laxmena.com](https://laxmena.com)**
