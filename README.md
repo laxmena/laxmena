@@ -14,8 +14,14 @@ pip install hone-ai
 ```
 
 **[PyCalendly](https://github.com/laxmena/PyCalendly)** — Python library for the Calendly API v2. Used by engineers who don't want to write the wrapper themselves.
+```
+pip install PyCalendly
+```
 
 **[writefreely-mcp-server](https://github.com/laxmena/writefreely-mcp-server)** — MCP server for WriteFreely/Write.as. Lets AI agents publish and manage blog content.
+```
+pip install writefreely-mcp-server
+```
 
 ---
 
